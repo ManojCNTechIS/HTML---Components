@@ -1,8 +1,8 @@
 # HTML-Components
 
-01_Accordion_Component
+01_Hero_Section_Component
+<img width="1440" alt="Screenshot 2023-03-16 at 1 58 00 PM" src="https://user-images.githubusercontent.com/118239734/225559647-7ef9c9e5-c610-4ed0-a315-b7a24059032e.png">
 
-![Screenshot 2023-03-15 at 2 50 46 PM](https://user-images.githubusercontent.com/118239734/225558971-9ca2cce3-2e77-4572-84bb-a769cc62491f.png)
 
 02_Carousel_Component
 
@@ -16,8 +16,9 @@
 
 <img width="597" alt="Screenshot 2023-03-16 at 1 57 35 PM" src="https://user-images.githubusercontent.com/118239734/225559456-faac92f5-f275-408e-aff1-eb50e6c19512.png">
 
-05_Hero_Section_Component
-<img width="1440" alt="Screenshot 2023-03-16 at 1 58 00 PM" src="https://user-images.githubusercontent.com/118239734/225559647-7ef9c9e5-c610-4ed0-a315-b7a24059032e.png">
+05_Accordion_Component
+
+![Screenshot 2023-03-15 at 2 50 46 PM](https://user-images.githubusercontent.com/118239734/225558971-9ca2cce3-2e77-4572-84bb-a769cc62491f.png)
 
 06_App_Layout_Component
 <img width="1440" alt="Screenshot 2023-03-16 at 1 58 21 PM" src="https://user-images.githubusercontent.com/118239734/225559754-11850724-a414-49ef-84c7-0057c83edda0.png">
